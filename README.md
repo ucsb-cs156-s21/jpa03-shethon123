@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-shethon123
 
-On Heroku: https://jpa03-shethon123.herokuapp.com
+On Heroku: https://jpa03-sheldinlau.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-shethon123
 
